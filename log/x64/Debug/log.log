@@ -1,0 +1,4 @@
+﻿  log.cpp
+C:\Users\Маргарита\Desktop\практика\log\log.cpp(14,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Маргарита\Desktop\практика\log\log.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  log.vcxproj -> C:\Users\Маргарита\Desktop\практика\log\x64\Debug\log.exe
