@@ -27,7 +27,7 @@ void main() {
 
 	for (i = 0; i < n; i++) { 
 		for (j = 0; j < m; j++) {
-			a[i * m + j] = rand() % 100;
+			a[i * m + j] = rand() % 100-50;
 			printf("%5d ", a[i * m + j]);
 		}
 		printf("\n");
